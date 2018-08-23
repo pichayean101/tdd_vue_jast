@@ -25,3 +25,10 @@ https://github.com/vuejs/vue-test-utils-jest-example
 https://medium.freecodecamp.org/simple-unit-tests-with-vue-test-utils-and-jest-c384d7abc321
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+# build for production and view the bundle analyzer report
+# reference 01
+https://npm.taobao.org/package/source-map
+```
